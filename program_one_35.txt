@@ -1,0 +1,17 @@
+lodi R0 1
+stoi 35 (SP)
+movr SP R1
+add R0 R1
+mova SP
+lorr R1 (SP-1)
+lodi R2 34
+sub R1 R2
+jmpn 0x1d
+lodi R2 1
+sub R1 R2
+stor AC (SP - 1)
+jmp 0x20
+lodi R2 1
+add R1 R2
+stor AC (SP - 1)
+halt

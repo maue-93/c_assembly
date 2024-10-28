@@ -1,0 +1,6 @@
+call 0x13
+.display_cpu
+stoi  290  0x104
+loda     R1     0x104
+.display_cpu
+halt

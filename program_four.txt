@@ -1,0 +1,25 @@
+lodi R0 1
+movr SP R1
+add R0 R1
+mova SP
+stoi 4 (SP)
+movr SP R1
+add R0 R1
+mova SP
+call 0x1a
+halt
+lodi R0 1
+movr SP R1
+add R0 R1
+mova SP
+lorr R1 (SP - 4)
+add R1 R1
+jmpz 0x28
+lodi R2 1
+sub R1 R2
+stor AC (SP)
+movr SP R1
+add R0 R1
+mova SP
+call 0x1a
+ret

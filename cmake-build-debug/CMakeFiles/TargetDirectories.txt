@@ -1,0 +1,6 @@
+/Users/elisomorazara/Developer/lafayette/cs 203/cs203lab5/cmake-build-debug/CMakeFiles/cs203lab5.dir
+/Users/elisomorazara/Developer/lafayette/cs 203/cs203lab5/cmake-build-debug/CMakeFiles/test_helper_methods.dir
+/Users/elisomorazara/Developer/lafayette/cs 203/cs203lab5/cmake-build-debug/CMakeFiles/test_cpu.dir
+/Users/elisomorazara/Developer/lafayette/cs 203/cs203lab5/cmake-build-debug/CMakeFiles/test_mem.dir
+/Users/elisomorazara/Developer/lafayette/cs 203/cs203lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elisomorazara/Developer/lafayette/cs 203/cs203lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
